@@ -1,0 +1,20 @@
+Create Project:
+
+    1. create folder.
+    2. open folder.
+    3. create file.
+    
+
+
+    ທຳຄວາມເຂົ້າໃຈກ່ອນວ່າ: CLI = Command Line Interface 
+    ທຳງານຈາກ Input ໄປ Process ໄປ Output ອອກ
+
+    ຕົວຢ່າງ: 
+    User input: 10 + 5
+    Process: 10 + 5
+    Output: 15
+
+
+    ເຮົາຈະຮັບ input ຈາກ Terminal ໂດຍຈະໃຊ້ເຄື່ອງມືທີ່ Nodejs ມີຄຶ readline library
+
+    ຢ່າລືມວ່າຫຼັກການຕ້ອງມີ control flow: user ເລືອກ option ການເຮັດວຽກ ແລ້ວຄ່ອຍນຳໄປສູ່ໂປຮແກຮມຕັດສິນໃຈ ສິ່ງທີ່ user ເລືອກ
